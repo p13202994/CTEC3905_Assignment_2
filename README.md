@@ -22,8 +22,13 @@ Whole information about developing this site is given in a word document but in 
 # Folders and files
 
 css- contains all css files and bootstrap files
+
 images - contains all images used in the site
+
 js- all js files
+
 index.htm - the actual single page website
+
 readme.md - basic information about this site
+
 info.docx- All information about the site is in this document.
