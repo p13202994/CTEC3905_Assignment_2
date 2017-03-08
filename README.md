@@ -19,3 +19,11 @@ In the header of the website I have added Facebook and Twitted links.
 # Decision behind developing this website
 Whole information about developing this site is given in a word document but in brief, I developed website on this topic and as a single page is firstly, this is something I am interested in and I was following the development videos and tutorials of single page applications from last few months which gave me the idea to develop my site in that way.
 
+# Folders and files
+
+css- contains all css files and bootstrap files
+images - contains all images used in the site
+js- all js files
+index.htm - the actual single page website
+readme.md - basic information about this site
+info.docx- All information about the site is in this document.
