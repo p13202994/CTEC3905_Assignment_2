@@ -16,5 +16,5 @@ The final section is the contact page where I have added my address and phone nu
 
 In the header of the website I have added Facebook and Twitted links.
 
-# Progress of the website
-Whole information about developing this site is given in a word document which is also uploaded on github.
+# Decision behind developing this website
+Whole information about developing this site is given in a word document but in brief, I developed website on this topic and as a single page is firstly, this is something I am interested in and I was following the development videos and tutorials of single page applications from last few months which gave me the idea to develop my site in that way.
