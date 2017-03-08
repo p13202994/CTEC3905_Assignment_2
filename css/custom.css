@@ -1,3 +1,7 @@
+/*
+This file is the main file which deals with styles of the whole site
+*/
+
 .skyblue{
    background-color:  #1e90ff;
 }
@@ -101,6 +105,7 @@ border: 0px solid #91BFDE;
 
 
 /* Home Page welcome codes */
+
 .wel{
     font-size: 1.2em;
 }
@@ -278,7 +283,7 @@ opacity: 1;
 }
 
 /* SLIDESHOW CODES */
-/*** SLIDESHOW WIDTH AND HEIGHT **/
+
 
 #sshow {
     position:relative;
@@ -304,6 +309,8 @@ opacity: 1;
 #sshow IMG.last-active {
     z-index:9;
 }
+
+
 /* SCROLL TO TOP CODES */
 .scroll{
 
@@ -325,6 +332,8 @@ opacity: 1;
 .scroll:hover{
 	text-decoration:none;
 }
+
+
 /* PORTFOLIO CODES */
 .port-item {
   cursor: pointer;
