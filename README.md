@@ -1,5 +1,5 @@
 # CTEC3905_Assignment_2
-This website is a single page site of my own portfolio and depicts my seconday job cum interest. It illustrates everything related to my iterest in brief.
+This website is a single page site of my own portfolio and depicts my seconday job cum interest. It illustrates everything related to my interest in brief. The development and testing was done on the devices with standard sizes.
 
 # Navigation
 The navigation of the site is very simple and easy.
@@ -18,3 +18,4 @@ In the header of the website I have added Facebook and Twitted links.
 
 # Decision behind developing this website
 Whole information about developing this site is given in a word document but in brief, I developed website on this topic and as a single page is firstly, this is something I am interested in and I was following the development videos and tutorials of single page applications from last few months which gave me the idea to develop my site in that way.
+
