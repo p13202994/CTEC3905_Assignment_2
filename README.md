@@ -23,6 +23,8 @@ Whole information about developing this site is given in a word document but in 
 
 css- contains all css files and bootstrap files
 
+fonts - all used fonts are in this folder
+
 images - contains all images used in the site
 
 js- all js files
