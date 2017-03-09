@@ -34,3 +34,6 @@ index.htm - the actual single page website
 readme.md - basic information about this site
 
 info.docx- All information about the site is in this document.
+
+# Note
+I have my old repository deleted accidently where I committed before making this one.
