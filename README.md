@@ -36,4 +36,4 @@ readme.md - basic information about this site
 info.docx- All information about the site is in this document.
 
 # Note
-I have my old repository deleted accidently where I committed before making this one and after making this new repository few days ago, I uploaded all of my files as message- "added local files". Some of the files still got that message but the other which I have editted after uploadind have different commit message.
+I have my old repository deleted accidently where I committed before making this one and after making this new repository few days ago, I uploaded all of my files as message- "added local files". Some of the files still got that message but the other which I have editted after uploadind have different commit message. I did my final commit writing this line at 11:56 10th March 2017.
